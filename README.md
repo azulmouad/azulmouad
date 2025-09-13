@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **moad.devloper@gmail.com**
 
-- 📄 Know about my experiences [mouadzizi.me](mouadzizi.me)
+- 📄 Know about my experiences [mouadzizi.com](mouadzizi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
