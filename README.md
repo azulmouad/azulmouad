@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mouad Zizi</h1>
-<h3 align="center">Highly experienced Flutter developer with over 10 years of hybrid mobile app development and 8 years of overall mobile app experience. In addition, a seasoned Full-Stack Developer with expertise in frontend technologies like React.js, Next.js, and backend technologies including PHP, Laravel, Node.js, and PostgreSQL. I take full ownership of projects, from conception to deployment, both for m obile (using Flutter for Android and iOS) and web solutions. My backend experience spans Firebase, Laravel, PHP, and Node.js, allowing me to handle complete end-to-end development of sophisticated applications.</h3>
+<h3 align="center">Highly experienced Flutter developer with over 6 years of hybrid mobile app development and 8 years of overall mobile app experience. In addition, a seasoned Full-Stack Developer with expertise in frontend technologies like React.js, Next.js, and backend technologies including PHP, Laravel, Node.js, and PostgreSQL. I take full ownership of projects, from conception to deployment, both for m obile (using Flutter for Android and iOS) and web solutions. My backend experience spans Firebase, Laravel, PHP, and Node.js, allowing me to handle complete end-to-end development of sophisticated applications.</h3>
 
 - 🔭 I’m currently working as [Team Manager](best4SEO.com)
 
